@@ -46,6 +46,7 @@ Git, GitHub, Git Bash, Jupyter Notebook, VS Code, MySQL Workbench
 I’m always open to connecting, learning, and collaborating on **data analysis**, **data science**, and **machine learning projects**. If you’re working on something interesting or want to explore ideas together, feel free to reach out!
 
 🔗 **LinkedIn:** [Shivani Pandeti](https://www.linkedin.com/in/shivanipandeti/)
+
 📂 **GitHub:** You’re already here — feel free to explore my repositories
 
 
