@@ -1,5 +1,5 @@
 ## Hi there 👋 Shivani Pandeti here!
-📊 Aspiring Data Analyst and - passionate about turning messy data into clear, actionable insights.
+📊 Aspiring Data Science and Machine Learning Enthusiast - passionate about turning messy data into clear, actionable insights.
 
 🎓 Master’s student in Applied Data Science at Syracuse University
 
